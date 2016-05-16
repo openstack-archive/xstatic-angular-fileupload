@@ -1,0 +1,9 @@
+Code-Review+2: Timur Sufiev <tsufiev@mirantis.com>
+Code-Review+2: Richard Jones <r1chardj0n3s@gmail.com>
+Workflow+1: Richard Jones <r1chardj0n3s@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 16 May 2016 22:27:55 +0000
+Reviewed-on: https://review.openstack.org/316025
+Project: openstack/xstatic-angular-fileupload
+Branch: refs/heads/master
